@@ -3,7 +3,7 @@
 
 
 
-This project utilizes clustering algorithms, venue data from the Foursquare API, and weather data from the OpenWeatherMap API in order to help restaurant owners decide which New York or Toronto neighborhoods they should consider opening up a restaurant in. Web scrapping was used to obtain neighborhood postal codes from Wikipedia and Geopy was used to determine the corresponding latitudes and longitude values for these neighborhood postal codes. I've broken up the thought process behind the project below and listed any limitations or improvements that can be made to the project. 
+This project utilizes clustering algorithms, venue data from the Foursquare API, and weather data from the OpenWeatherMap API in order to help restaurant owners decide which New York or Toronto neighborhoods they should consider opening up a restaurant in. Web scrapping was used to obtain neighborhood postal codes from Wikipedia and Geopy was used to determine the corresponding latitudes and longitude values for these neighborhood postal codes. I've broken up the thought process behind the project below and listed any limitations or improvements that can be made to the project.
 
 1.) Industrial Organization, a field of economics that focuses on the theory of the firm, suggests that firms in similar industries will start to aggregate around a pareto optimal focal point in any geospatial plane in order to reduce transportation costs for customers and thus maximize customer acquisition. For this reason, we are interested in neighborhoods that showcase relatively high frequencies of restaurant venues as this will serve as an indicator of a prime location to open up shop.
 
